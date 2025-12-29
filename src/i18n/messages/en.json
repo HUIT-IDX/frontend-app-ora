@@ -1,0 +1,1118 @@
+{
+  "frontend-app-ora.Actions.confirmDescription.assessment": {
+    "defaultMessage": "Once your grade is submitted, it cannot be changed.",
+    "description": "Assessment submission confirmation dialog description"
+  },
+  "frontend-app-ora.Actions.confirmDescription.deleteFile": {
+    "defaultMessage": "This cannot be undone",
+    "description": "File deletion confirm dialog title"
+  },
+  "frontend-app-ora.Actions.confirmDescription.exit": {
+    "defaultMessage": "Your work will not be saved",
+    "description": "Exit confirmation dialog description"
+  },
+  "frontend-app-ora.Actions.confirmDescription.submission": {
+    "defaultMessage": "The response cannot be edited or deleted once it has been submitted",
+    "description": "Response submission confirmation dialog description"
+  },
+  "frontend-app-ora.Actions.confirmTitle.deleteFile": {
+    "defaultMessage": "Are you sure you want to delete the file?",
+    "description": "File deletion confirm dialog title"
+  },
+  "frontend-app-ora.Actions.confirmTitle.exit": {
+    "defaultMessage": "Are you sure you want to exit?",
+    "description": "Exit confirmation dialog title"
+  },
+  "frontend-app-ora.Actions.confirmTitle.peer": {
+    "defaultMessage": "Ready to submit this peer grade?",
+    "description": "Peer submission confirmation dialog title"
+  },
+  "frontend-app-ora.Actions.confirmTitle.self": {
+    "defaultMessage": "Ready to submit your self grade?",
+    "description": "Self submission confirmation dialog title"
+  },
+  "frontend-app-ora.Actions.confirmTitle.submission": {
+    "defaultMessage": "Are you sure you want to submit this response?",
+    "description": "Response submission confirmation dialog title"
+  },
+  "frontend-app-ora.Actions.exit": {
+    "defaultMessage": "Exit",
+    "description": "Action button to exit grades step"
+  },
+  "frontend-app-ora.Actions.gradeSubmitted": {
+    "defaultMessage": "Grade submitted",
+    "description": "Submit grade button text after successful submission"
+  },
+  "frontend-app-ora.Actions.loadNext": {
+    "defaultMessage": "Grade next",
+    "description": "Action button to load next peer response"
+  },
+  "frontend-app-ora.Actions.loadingNext": {
+    "defaultMessage": "Loading next",
+    "description": "Action button text while loading next peer assessment"
+  },
+  "frontend-app-ora.Actions.peerResponse": {
+    "defaultMessage": "peer",
+    "description": "Peer type of response for \"Load(ing/ed) next <type>\" action"
+  },
+  "frontend-app-ora.Actions.practiceResponse": {
+    "defaultMessage": "practice response",
+    "description": "Student training type of response for \"Load(ing/ed) next <type>\" action"
+  },
+  "frontend-app-ora.Actions.responseSubmitted": {
+    "defaultMessage": "Response submitted",
+    "description": "Submit button text after successful submission"
+  },
+  "frontend-app-ora.Actions.savingResponse": {
+    "defaultMessage": "Saving response",
+    "description": "Save for later button text while saving"
+  },
+  "frontend-app-ora.Actions.simpleAction.close": {
+    "defaultMessage": "Close",
+    "description": "Close button text"
+  },
+  "frontend-app-ora.Actions.simpleAction.deleteFile": {
+    "defaultMessage": "Delete file",
+    "description": "Delete file button text"
+  },
+  "frontend-app-ora.Actions.simpleAction.exitWithoutSaving": {
+    "defaultMessage": "Exit without saving",
+    "description": "Exit without saving (close) button text"
+  },
+  "frontend-app-ora.Actions.simpleAction.finishLater": {
+    "defaultMessage": "Finish the rest later",
+    "description": "Finish later (close) button text"
+  },
+  "frontend-app-ora.Actions.startPeer": {
+    "defaultMessage": "Begin peer grading",
+    "description": "Action button to begin peer assessment step"
+  },
+  "frontend-app-ora.Actions.startSelf": {
+    "defaultMessage": "Go to self grading",
+    "description": "Action button to begin self assessment step"
+  },
+  "frontend-app-ora.Actions.startTraining": {
+    "defaultMessage": "Go to practice grading",
+    "description": "Action button to begin studentTraining step"
+  },
+  "frontend-app-ora.Actions.submitGrade": {
+    "defaultMessage": "Submit {viewStep}grade",
+    "description": "Submit grade button text"
+  },
+  "frontend-app-ora.Actions.submitResponse": {
+    "defaultMessage": "Submit response",
+    "description": "Submit button text"
+  },
+  "frontend-app-ora.Actions.submittingGrade": {
+    "defaultMessage": "Submitting grade",
+    "description": "Submit grade button text while submitting"
+  },
+  "frontend-app-ora.Actions.submittingResponse": {
+    "defaultMessage": "Submitting response",
+    "description": "Submit button text while submitting"
+  },
+  "frontend-app-ora.Actions.viewGrades": {
+    "defaultMessage": "View your grades",
+    "description": "Action button to load grades step"
+  },
+  "frontend-app-ora.Actions.viewStep.peer": {
+    "defaultMessage": "peer",
+    "description": "View step label for peer assessment"
+  },
+  "frontend-app-ora.Actions.viewStep.self": {
+    "defaultMessage": "self",
+    "description": "View step label for self assessment"
+  },
+  "frontend-app-ora.Actions.viewStep.studentTraining": {
+    "defaultMessage": "practice",
+    "description": "View step label for student training"
+  },
+  "frontend-app-ora.ConfirmDialog.goBack": {
+    "defaultMessage": "Go back",
+    "description": "Label for the cancel button"
+  },
+  "frontend-app-ora.CriterionFeedback.addCommentsLabel": {
+    "defaultMessage": "Add comments",
+    "description": "label for editable feedback field"
+  },
+  "frontend-app-ora.CriterionFeedback.commentsLabel": {
+    "defaultMessage": "Comments",
+    "description": "label for read-only feedback field"
+  },
+  "frontend-app-ora.CriterionFeedback.criterionFeedbackError": {
+    "defaultMessage": "The feedback is required",
+    "description": "Error message when feedback is required"
+  },
+  "frontend-app-ora.CriterionFeedback.optional": {
+    "defaultMessage": "(Optional)",
+    "description": "additional label for optional feedback field"
+  },
+  "frontend-app-ora.EditableAssessment.addComments": {
+    "defaultMessage": "Add comments (Optional)",
+    "description": "Rubric comments input label"
+  },
+  "frontend-app-ora.EditableAssessment.comments": {
+    "defaultMessage": "Comments (Optional)",
+    "description": "Rubric comments display label"
+  },
+  "frontend-app-ora.EditableAssessment.finishLater": {
+    "defaultMessage": "Exit without saving",
+    "description": "Button text for close modal action in the assessment view"
+  },
+  "frontend-app-ora.EditableAssessment.overallComments": {
+    "defaultMessage": "Overall comments",
+    "description": "Rubric overall comments label"
+  },
+  "frontend-app-ora.EditableAssessment.overallFeedbackError": {
+    "defaultMessage": "The overall feedback is required",
+    "description": "Error message when feedback input is required"
+  },
+  "frontend-app-ora.EditableAssessment.rubric": {
+    "defaultMessage": "Rubric",
+    "description": "Rubric interface label"
+  },
+  "frontend-app-ora.EditableAssessment.viewStep.peer": {
+    "defaultMessage": "peer",
+    "description": "View step label for peer assessment"
+  },
+  "frontend-app-ora.EditableAssessment.viewStep.self": {
+    "defaultMessage": "self",
+    "description": "View step label for self assessment"
+  },
+  "frontend-app-ora.EditableAssessment.viewStep.studentTraining": {
+    "defaultMessage": "practice",
+    "description": "View step label for student training"
+  },
+  "frontend-app-ora.FileCellContent.cancelUploadFileButton": {
+    "defaultMessage": "Cancel upload",
+    "description": "Label for cancel button"
+  },
+  "frontend-app-ora.FileCellContent.confirmUploadFileButton": {
+    "defaultMessage": "Upload files",
+    "description": "Label for upload button"
+  },
+  "frontend-app-ora.FileCellContent.deleteButtonAltText": {
+    "defaultMessage": "Delete",
+    "description": " alt text for delete button"
+  },
+  "frontend-app-ora.FileCellContent.fileActionsTitle": {
+    "defaultMessage": "Actions",
+    "description": " title for file actions"
+  },
+  "frontend-app-ora.FileCellContent.fileDescriptionMissingError": {
+    "defaultMessage": "Please enter a file description",
+    "description": "Error message when file description is missing"
+  },
+  "frontend-app-ora.FileCellContent.fileDescriptionTitle": {
+    "defaultMessage": "File description",
+    "description": " title for file description"
+  },
+  "frontend-app-ora.FileCellContent.fileSizeTitle": {
+    "defaultMessage": "File size",
+    "description": " title for file size"
+  },
+  "frontend-app-ora.FileCellContent.fileUploadTitle": {
+    "defaultMessage": "File upload",
+    "description": " title for file upload"
+  },
+  "frontend-app-ora.FileCellContent.previewButtonAltText": {
+    "defaultMessage": "Preview",
+    "description": " alt text for preview button"
+  },
+  "frontend-app-ora.FileCellContent.uploadFileDescriptionFieldLabel": {
+    "defaultMessage": "Description for:",
+    "description": "Label for file description field"
+  },
+  "frontend-app-ora.FileCellContent.uploadFileModalTitle": {
+    "defaultMessage": "Add a text description to your file",
+    "description": "Ask user to add a text description to the file"
+  },
+  "frontend-app-ora.FileCellContent.uploadedFilesTitle": {
+    "defaultMessage": "Uploaded files",
+    "description": "Title for uploaded files"
+  },
+  "frontend-app-ora.FileContent.fileNameTitle": {
+    "defaultMessage": "File name",
+    "description": " title for file name"
+  },
+  "frontend-app-ora.FilePopoverCellContent.filePopoverDescriptionTitle": {
+    "defaultMessage": "File description",
+    "description": "Popover title for file description"
+  },
+  "frontend-app-ora.FilePopoverContent.filePopoverNameTitle": {
+    "defaultMessage": "File name",
+    "description": "Popover title for file name"
+  },
+  "frontend-app-ora.FileUpload.required": {
+    "defaultMessage": "File Upload is required",
+    "description": "Indicating file upload is required"
+  },
+  "frontend-app-ora.InfoPopover.alt-text": {
+    "defaultMessage": "Display more info",
+    "description": "Info popover trigger element alt-text"
+  },
+  "frontend-app-ora.InfoPopover.fileInfo": {
+    "defaultMessage": "File info",
+    "description": "Popover trigger button text for file preview card"
+  },
+  "frontend-app-ora.InfoPopover.rubricDetails": {
+    "defaultMessage": "Rubric details",
+    "description": "Rubric details info popover help text"
+  },
+  "frontend-app-ora.ProgressBar.createSubmission": {
+    "defaultMessage": "Create response",
+    "description": "Create response progress indicator"
+  },
+  "frontend-app-ora.ProgressBar.myGrade": {
+    "defaultMessage": "My grade",
+    "description": "My grade step progress indicator"
+  },
+  "frontend-app-ora.ProgressBar.peerAssess": {
+    "defaultMessage": "Peer grading",
+    "description": "Peer assessment step progress indicator"
+  },
+  "frontend-app-ora.ProgressBar.selfAssess": {
+    "defaultMessage": "Self grading",
+    "description": "Self assessment step progress indicator"
+  },
+  "frontend-app-ora.ProgressBar.step": {
+    "defaultMessage": "(Step {stepIndex}/{totalSteps})",
+    "description": "Step progress indicator"
+  },
+  "frontend-app-ora.ProgressBar.studentTraining": {
+    "defaultMessage": "Practice grading",
+    "description": "Student training step progress indicator"
+  },
+  "frontend-app-ora.Prompt.header.done": {
+    "defaultMessage": "Assessment prompt",
+    "description": "Done step prompt header"
+  },
+  "frontend-app-ora.Prompt.header.peer": {
+    "defaultMessage": "Grade your peers' responses to the prompt below",
+    "description": "Peer step prompt header"
+  },
+  "frontend-app-ora.Prompt.header.self": {
+    "defaultMessage": "Grade your own response to the prompt below",
+    "description": "Self step prompt header"
+  },
+  "frontend-app-ora.Prompt.header.studentTraining": {
+    "defaultMessage": "Practice grading a response to the prompt below",
+    "description": "Practice step prompt header"
+  },
+  "frontend-app-ora.Prompt.header.submission": {
+    "defaultMessage": "Create a response to the prompt below",
+    "description": "Submission step prompt header"
+  },
+  "frontend-app-ora.Prompt.promptTitle": {
+    "defaultMessage": "Prompt",
+    "description": "Prompt title"
+  },
+  "frontend-app-ora.RadioCriterion.optionPoints": {
+    "defaultMessage": "{points} points",
+    "description": "criterion option point value display"
+  },
+  "frontend-app-ora.RadioCriterion.rubricSelectedError": {
+    "defaultMessage": "Rubric selection is required",
+    "description": "Error message when rubric radio did not get selected"
+  },
+  "frontend-app-ora.ResponseDisplay.FileRenderer.fileNotFound": {
+    "defaultMessage": "File not found",
+    "description": "File not found error message"
+  },
+  "frontend-app-ora.ResponseDisplay.FileRenderer.retryButton": {
+    "defaultMessage": "Retry",
+    "description": "Retry button for error in file renderer"
+  },
+  "frontend-app-ora.ResponseDisplay.FileRenderer.unknownError": {
+    "defaultMessage": "Unknown errors",
+    "description": "Unknown errors message"
+  },
+  "frontend-app-ora.ResponseDisplay.SubmissionFiles.downloadFiles": {
+    "defaultMessage": "Download files",
+    "description": "Download files inactive state label"
+  },
+  "frontend-app-ora.ResponseDisplay.SubmissionFiles.downloaded": {
+    "defaultMessage": "Downloaded!",
+    "description": "Download files completed state label"
+  },
+  "frontend-app-ora.ResponseDisplay.SubmissionFiles.downloading": {
+    "defaultMessage": "Downloading",
+    "description": "Download files pending state label"
+  },
+  "frontend-app-ora.ResponseDisplay.SubmissionFiles.retryDownload": {
+    "defaultMessage": "Retry download",
+    "description": "Download files failed state label"
+  },
+  "frontend-app-ora.Rubric.addComments": {
+    "defaultMessage": "Add comments (Optional)",
+    "description": "Rubric comments input label"
+  },
+  "frontend-app-ora.Rubric.comments": {
+    "defaultMessage": "Comments (Optional)",
+    "description": "Rubric comments display label"
+  },
+  "frontend-app-ora.Rubric.gradeSubmitted": {
+    "defaultMessage": "Grade submitted",
+    "description": "Submit grade button text after successful submission"
+  },
+  "frontend-app-ora.Rubric.header": {
+    "defaultMessage": "Grading criteria",
+    "description": "Rubric header text"
+  },
+  "frontend-app-ora.Rubric.overallComments": {
+    "defaultMessage": "Overall comments",
+    "description": "Rubric overall comments label"
+  },
+  "frontend-app-ora.Rubric.rubric": {
+    "defaultMessage": "Rubric",
+    "description": "Rubric interface label"
+  },
+  "frontend-app-ora.Rubric.submitGrade": {
+    "defaultMessage": "Submit grade",
+    "description": "Submit grade button text"
+  },
+  "frontend-app-ora.Rubric.submittingGrade": {
+    "defaultMessage": "Submitting grade",
+    "description": "Submit grade button text while submitting"
+  },
+  "frontend-app-ora.RubricFeedback.error": {
+    "defaultMessage": "The overall feedback is required",
+    "description": "Error message when feedback input is required"
+  },
+  "frontend-app-ora.StatusAlert.Heading.peer.closed": {
+    "defaultMessage": "Peer assessment: Closed",
+    "description": "Peer assessment closed status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.peer.finished": {
+    "defaultMessage": "Peer assessment: Complete",
+    "description": "Peer assessment finished status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.peer.notAvailable": {
+    "defaultMessage": "Peer assessment not available",
+    "description": "Peer assessment not available status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.peer.submitted": {
+    "defaultMessage": "Peer assessment successfully submitted",
+    "description": "Peer assessment submitted status alert"
+  },
+  "frontend-app-ora.StatusAlert.Heading.peer.waiting": {
+    "defaultMessage": "Waiting for peers to submit",
+    "description": "Peer assessment waiting status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.peer.waitingForPeerGrades": {
+    "defaultMessage": "You have graded the required number of your peers. You are waiting for your peers to finish grading your work.",
+    "description": "Peer assessment waiting-for-peer-grades status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.self.closed": {
+    "defaultMessage": "Self assessment: Closed",
+    "description": "Student training closed status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.self.notAvailable": {
+    "defaultMessage": "Self assessment not available",
+    "description": "Self assessment not available status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.self.submitted": {
+    "defaultMessage": "Self assessment: Completed",
+    "description": "Self assessment submitted status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.status": {
+    "defaultMessage": "Great work! All assignment steps are completed.",
+    "description": "Done status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.step.notStarted": {
+    "defaultMessage": "{stepName} not started",
+    "description": "Step not started status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.studentTraining.submitted": {
+    "defaultMessage": "You have successfully submitted a practice grade.",
+    "description": "Practice assessment submitted status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.submission.cancelled": {
+    "defaultMessage": "Submission cancelled",
+    "description": "Submission cancelled status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.submission.cancelledBy": {
+    "defaultMessage": "Submission cancellation details",
+    "description": "Submission cancelled by user status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.submission.closed": {
+    "defaultMessage": "Submission closed",
+    "description": "Submission closed status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.submission.needTeam": {
+    "defaultMessage": "No team found",
+    "description": "Submission need-team status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.submission.notAvailable": {
+    "defaultMessage": "Submission not available",
+    "description": "Submission not available status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.submission.submitted": {
+    "defaultMessage": "Submission completed",
+    "description": "Submission submitted status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.Heading.submission.teamAlreadySubmitted": {
+    "defaultMessage": "Warning: This team has already submitted.",
+    "description": "Submission team-already-submitted status alert heading"
+  },
+  "frontend-app-ora.StatusAlert.peer.closed": {
+    "defaultMessage": "The due date for this step has passed. This step is now closed. You can no longer complete peer assessments or continue with this assignment, and you will receive a grade of incomplete.",
+    "description": "Peer assessment closed status alert"
+  },
+  "frontend-app-ora.StatusAlert.peer.finished": {
+    "defaultMessage": "You have successfully completed all of the required peer assessments for this assignment. You may assess additional peer responses if you want to. Completed additional assessments will no affect your grade.",
+    "description": "Peer assessment finished status alert"
+  },
+  "frontend-app-ora.StatusAlert.peer.notAvailable": {
+    "defaultMessage": "This task is not available yet. Check back to complete the assignment once this section has opened",
+    "description": "Peer assessment not available status alert"
+  },
+  "frontend-app-ora.StatusAlert.peer.submitted": {
+    "defaultMessage": "Continue to submit peer assessments until you have completed the required number.",
+    "description": "Peer assessment submitted status alert"
+  },
+  "frontend-app-ora.StatusAlert.peer.waiting": {
+    "defaultMessage": "All submitted responses have been assessed. Check back later to see if more learners have submitted responses.",
+    "description": "Peer assessment waiting status alert"
+  },
+  "frontend-app-ora.StatusAlert.peer.waitingForPeerGrades": {
+    "defaultMessage": "You will have completed this step once your peers have finished grading your response. Check back periodically to see if there is an update. Optionally, you may also grade more peers while you wait.",
+    "description": "Peer assessment waiting-for-peer-grades status alert"
+  },
+  "frontend-app-ora.StatusAlert.self.closed": {
+    "defaultMessage": "The due date for this step has passed. This step is now closed. You can no longer complete a self assessment or continue with this assignment, and you will receive a grade of incomplete",
+    "description": "Student training closed status alert"
+  },
+  "frontend-app-ora.StatusAlert.self.notAvailable": {
+    "defaultMessage": "Self assessment is not available yet. Check back to complete the assignment once this section has opened",
+    "description": "Self assessment not available status alert"
+  },
+  "frontend-app-ora.StatusAlert.self.submitted": {
+    "defaultMessage": "You have completed your self assessment for this assignment.",
+    "description": "Self assessment submitted status alert"
+  },
+  "frontend-app-ora.StatusAlert.status": {
+    "defaultMessage": "You have completed this assignment. Review your grade and your assessment details",
+    "description": "Done status alert"
+  },
+  "frontend-app-ora.StatusAlert.step.notStarted": {
+    "defaultMessage": "{stepName} step has not started yet. Check back on {startDatetime} to begin.",
+    "description": "Step not started status alert"
+  },
+  "frontend-app-ora.StatusAlert.studentTraining.submitted": {
+    "defaultMessage": "Continue to the next example, or if you have completed all examples, continue to the next step.",
+    "description": "Practice assessment submitted status alert"
+  },
+  "frontend-app-ora.StatusAlert.studentTraining.validation": {
+    "defaultMessage": "Your grade does not match what the instructor intended for this practice session. Try rereading the prompt and response and adjust your grade accordingly.",
+    "description": "Student training validation status alert"
+  },
+  "frontend-app-ora.StatusAlert.submission.cancelled": {
+    "defaultMessage": "Your submission was cancelled on {cancelledAt}",
+    "description": "Submission cancelled status alert"
+  },
+  "frontend-app-ora.StatusAlert.submission.cancelledBy": {
+    "defaultMessage": "Your submission was cancelled by {cancelledBy} on {cancelledAt}",
+    "description": "Submission cancelled by user status alert"
+  },
+  "frontend-app-ora.StatusAlert.submission.closed": {
+    "defaultMessage": "The due date for this step has passed. This step is now closed. You can no longer submit a response or continue with this problem, and you will receive a grade of incomplete. If you saved but did not submit a response, the response appears in the course records.",
+    "description": "Submission closed status alert"
+  },
+  "frontend-app-ora.StatusAlert.submission.needTeam": {
+    "defaultMessage": "This is a team assignment. You are currently not on a team. You must be on a team to access this team assignment.",
+    "description": "Submission need-team status alert"
+  },
+  "frontend-app-ora.StatusAlert.submission.notAvailable": {
+    "defaultMessage": "This task is not available yet. Check back to complete the assignment once this section has opened",
+    "description": "Submission not available status alert"
+  },
+  "frontend-app-ora.StatusAlert.submission.submitted": {
+    "defaultMessage": "Your response has been submitted. You will receive your grade after all steps are complete and your response is fully assessed.",
+    "description": "Submission submitted status alert"
+  },
+  "frontend-app-ora.StatusAlert.submission.teamAlreadySubmitted": {
+    "defaultMessage": "You joined this team after they submitted a response for this assignment and you will not receive a grade for their response. You have also not previously submitted a response to this assignment with another team. Please contact course staff to discuss your options for this assignment.",
+    "description": "Submission team-already-submitted status alert"
+  },
+  "frontend-app-ora.StatusAlert.xblock.exit": {
+    "defaultMessage": "Exit",
+    "description": "Status alert exit button text"
+  },
+  "frontend-app-ora.StatusAlert.xblock.staffAssessment": {
+    "defaultMessage": "Your final grade will be ready once the instructor has finished grading your response. Check back periodically to see if there is an update.",
+    "description": "Status alert message for staff assessment step"
+  },
+  "frontend-app-ora.StatusAlerts.ERR_INVALID_STATE_FOR_ASSESSMENT": {
+    "defaultMessage": "This step is not available. Unable to retrieve the assessment.",
+    "description": "Error message for invalid state for assessment"
+  },
+  "frontend-app-ora.StatusAlerts.errorHeader": {
+    "defaultMessage": "Something went wrong.",
+    "description": "Error message header"
+  },
+  "frontend-app-ora.StatusAlerts.unknownError": {
+    "defaultMessage": "An unknown error occurred. Please try again.",
+    "description": "Error message for unknown error"
+  },
+  "frontend-app-ora.StepProgressIndicator.optional": {
+    "defaultMessage": "Grade next peer (optional)",
+    "description": "When peer response is optional"
+  },
+  "frontend-app-ora.StepProgressIndicator.progress": {
+    "defaultMessage": "{done} of {needed} completed",
+    "description": "Progress indicator for assessments steps with multiple assessments"
+  },
+  "frontend-app-ora.SubmissionView.draftSaved": {
+    "defaultMessage": "Draft saved",
+    "description": "Label for the draft saved message"
+  },
+  "frontend-app-ora.SubmissionView.instructions": {
+    "defaultMessage": "Instructions",
+    "description": "Label for the instructions textarea"
+  },
+  "frontend-app-ora.SubmissionView.instructionsText": {
+    "defaultMessage": "Create a response to the prompt below. Progress will be saved automatically and you can return to complete your progress at any time. After you submit your response, you cannot edit it.",
+    "description": "Description for the instructions textarea"
+  },
+  "frontend-app-ora.SubmissionView.yourResponse": {
+    "defaultMessage": "Your response",
+    "description": "Label for the response textarea"
+  },
+  "frontend-app-ora.TextResponse.optional": {
+    "defaultMessage": "Optional",
+    "description": "Label for the optional indicator"
+  },
+  "frontend-app-ora.TextResponse.previewLaTexButton": {
+    "defaultMessage": "Preview in LaTeX",
+    "description": "Label for the preview LaTeX button"
+  },
+  "frontend-app-ora.TextResponse.required": {
+    "defaultMessage": "required",
+    "description": "Label for the required indicator"
+  },
+  "frontend-app-ora.TextResponse.requiredField": {
+    "defaultMessage": "This field is required",
+    "description": "Indicating a field is required"
+  },
+  "frontend-app-ora.TextResponse.textResponsePlaceholder": {
+    "defaultMessage": "Enter your response to the prompt above",
+    "description": "Placeholder text for the text response input field"
+  },
+  "frontend-app-ora.TextResponse.yourResponse": {
+    "defaultMessage": "Your response",
+    "description": "Label for the text response input field"
+  },
+  "frontend-app-ora.TrainingCriterion.invalid": {
+    "defaultMessage": "Reevaluate and select a new score",
+    "description": "Error message when select wrong student training"
+  },
+  "frontend-app-ora.TrainingCriterion.valid": {
+    "defaultMessage": "Good job!",
+    "description": "Training criterion valid"
+  },
+  "frontend-app-ora.XBlockView.Actions.done": {
+    "defaultMessage": "View my grades",
+    "description": "Xblock view action button for done step to view grades"
+  },
+  "frontend-app-ora.XBlockView.Actions.peer": {
+    "defaultMessage": "Go to peer grading",
+    "description": "Xblock view action button for peer step to grade peers"
+  },
+  "frontend-app-ora.XBlockView.Actions.self": {
+    "defaultMessage": "Go to self grading",
+    "description": "Xblock view action button for self step to self-grade"
+  },
+  "frontend-app-ora.XBlockView.Actions.studentTraining": {
+    "defaultMessage": "Go to practice grading",
+    "description": "Xblock view action button for studentTraining step to practice grading"
+  },
+  "frontend-app-ora.XBlockView.Actions.submission": {
+    "defaultMessage": "Create response",
+    "description": "Xblock view action button for submission step to work on response"
+  },
+  "frontend-app-ora.XBlockView.DueDateMessage.availableStartingOn": {
+    "defaultMessage": "Available starting on {dueDate}",
+    "description": "Start date message"
+  },
+  "frontend-app-ora.XBlockView.DueDateMessage.peerGrading": {
+    "defaultMessage": "Peer grading",
+    "description": "Peer grading label string for sentence context"
+  },
+  "frontend-app-ora.XBlockView.DueDateMessage.responseDue": {
+    "defaultMessage": "{step} is due on {dueDate}",
+    "description": "In progress due date"
+  },
+  "frontend-app-ora.XBlockView.DueDateMessage.responseWasDue": {
+    "defaultMessage": "{step} was due on {dueDate}",
+    "description": "End date message"
+  },
+  "frontend-app-ora.XBlockView.DueDateMessage.selfAssessment": {
+    "defaultMessage": "Self assessment",
+    "description": "Self assessment label string for sentence verb context"
+  },
+  "frontend-app-ora.XBlockView.DueDateMessage.studentAssessment": {
+    "defaultMessage": "Student assessment",
+    "description": "Student assessment label string for sentence context"
+  },
+  "frontend-app-ora.XBlockView.DueDateMessage.waitingForPeerGrades": {
+    "defaultMessage": "You are waiting for your peers to finish grading your work.",
+    "description": "Waiting for peer grades message"
+  },
+  "frontend-app-ora.XBlockView.DueDateMessage.yourResponse": {
+    "defaultMessage": "Your response",
+    "description": "Response label string for sentence context"
+  },
+  "frontend-app-ora.XBlockView.DueDateMessage.yourSelfAssessment": {
+    "defaultMessage": "Your self assessment",
+    "description": "Self assessment label string for sentence noun context"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.cancelled": {
+    "defaultMessage": "Cancelled",
+    "description": "Cancelled badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.closed": {
+    "defaultMessage": "Closed",
+    "description": "Closed badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.complete": {
+    "defaultMessage": "Complete",
+    "description": "Complete badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.inProgress": {
+    "defaultMessage": "In progress",
+    "description": "In-progress badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.notAvailable": {
+    "defaultMessage": "Not available yet",
+    "description": "Not available yet badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.notReady": {
+    "defaultMessage": "Not ready yet",
+    "description": "Not ready yet badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.pastDue": {
+    "defaultMessage": "Past due",
+    "description": "Past-due badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.peerCompleted": {
+    "defaultMessage": "Peer assessment is completed",
+    "description": "Peer assessment complete badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.practiceCompleted": {
+    "defaultMessage": "Practice grading is completed",
+    "description": "Practice grading complete badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.selfCompleted": {
+    "defaultMessage": "Self assessment is completed",
+    "description": "Self assessment complete badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.submitted": {
+    "defaultMessage": "Response submitted",
+    "description": "Response submitted badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.teamRequired": {
+    "defaultMessage": "Team required",
+    "description": "Team-required badge message"
+  },
+  "frontend-app-ora.XBlockView.StatusRow.waiting": {
+    "defaultMessage": "Waiting",
+    "description": "Waiting badge message"
+  },
+  "frontend-app-ora.aboutYourGrade": {
+    "defaultMessage": "About your grade:",
+    "description": "About your grade"
+  },
+  "frontend-app-ora.error404Message": {
+    "defaultMessage": "Page not found",
+    "description": "Message to display when a user navigates to a page that does not exist"
+  },
+  "frontend-app-ora.finalGradeInfo": {
+    "defaultMessage": "Your grade is based on your {step} score for this problem. Other assessments don't count towards your final score.",
+    "description": "Final grade info"
+  },
+  "frontend-app-ora.grade": {
+    "defaultMessage": "{stepLabel} grade:",
+    "description": "Grade button text"
+  },
+  "frontend-app-ora.gradePoints": {
+    "defaultMessage": "{earned} / {possible}",
+    "description": "Grade points button text"
+  },
+  "frontend-app-ora.instructions.done": {
+    "defaultMessage": "You have successfully completed this problem and received a {earned}/{possible}.",
+    "description": "Graded step instructions"
+  },
+  "frontend-app-ora.instructions.header": {
+    "defaultMessage": "Instructions",
+    "description": "Instructions header"
+  },
+  "frontend-app-ora.instructions.peerAssessment": {
+    "defaultMessage": "Read and assess the following response from one of your peers.",
+    "description": "Peer assessment step instructions"
+  },
+  "frontend-app-ora.instructions.selfAssessment": {
+    "defaultMessage": "Assess your response",
+    "description": "Self assessment step instructions"
+  },
+  "frontend-app-ora.instructions.studentTraining": {
+    "defaultMessage": "Before you begin to assess your peers' responses, you'll learn how to complete peer assessments by reviewing responses that instructors have already assessed. If you select the same options for the response that the instructor selected, you'll move to the next step. If you don't select the same options, you'll review the response and try again.",
+    "description": "StudentTraining step instructions"
+  },
+  "frontend-app-ora.instructions.submission": {
+    "defaultMessage": "Enter your response to the prompt. Your work will save automatically and you can return to complete your response at any time before the due date. After you submit your response, you cannot edit it.",
+    "description": "Submission step instructions"
+  },
+  "frontend-app-ora.lmsAPI.peerLabel": {
+    "defaultMessage": "Peer assessment",
+    "description": "peer label"
+  },
+  "frontend-app-ora.lmsAPI.selfLabel": {
+    "defaultMessage": "Self assessment",
+    "description": "self label"
+  },
+  "frontend-app-ora.lmsAPI.staffLabel": {
+    "defaultMessage": "Staff assessment",
+    "description": "staff label"
+  },
+  "frontend-app-ora.lmsAPI.studentTrainingLabel": {
+    "defaultMessage": "Practice grading",
+    "description": "studentTraining label"
+  },
+  "frontend-app-ora.notWeightedGradeLabel": {
+    "defaultMessage": "(Not weighted toward final grade))",
+    "description": "Not weighted grade label"
+  },
+  "frontend-app-ora.overallFeedback": {
+    "defaultMessage": "Overall feedback",
+    "description": "Overall feedback label"
+  },
+  "frontend-app-ora.peerAsFinalGradeInfo": {
+    "defaultMessage": "Only the required number of peer grades will counted against your final grade. The others are shown, but are not included in your grade calculation",
+    "description": "Peer as final grade info"
+  },
+  "frontend-app-ora.peerAssessmentView.header": {
+    "defaultMessage": "Grade your peers",
+    "description": "Peer assessment view header text"
+  },
+  "frontend-app-ora.peerAssessmentView.responseHeader": {
+    "defaultMessage": "Peer response",
+    "description": "Peer assessment view response header text"
+  },
+  "frontend-app-ora.peerStepLabel": {
+    "defaultMessage": "Peer",
+    "description": "Peer step label"
+  },
+  "frontend-app-ora.readLess": {
+    "defaultMessage": "Read less",
+    "description": "Read less button text"
+  },
+  "frontend-app-ora.readMore": {
+    "defaultMessage": "Read more",
+    "description": "Read more button text"
+  },
+  "frontend-app-ora.selfAssessmentView.header": {
+    "defaultMessage": "Self grading",
+    "description": "Self assessment view header text"
+  },
+  "frontend-app-ora.selfAssessmentView.responseHeader": {
+    "defaultMessage": "Your response",
+    "description": "Self assessment view response header text"
+  },
+  "frontend-app-ora.selfStepLabel": {
+    "defaultMessage": "Self",
+    "description": "Self step label"
+  },
+  "frontend-app-ora.staffStepLabel": {
+    "defaultMessage": "Staff",
+    "description": "Staff step label"
+  },
+  "frontend-app-ora.studentTrainingView.header": {
+    "defaultMessage": "Practice grading",
+    "description": "Student training view header text"
+  },
+  "frontend-app-ora.studentTrainingView.responseHeader": {
+    "defaultMessage": "Example response",
+    "description": "Student training view response header text"
+  },
+  "frontend-app-ora.unweightedGrades": {
+    "defaultMessage": "Unweighted grades",
+    "description": "Unweighted grades"
+  },
+  "frontend-app-ora.unweightedGradesInfo": {
+    "defaultMessage": "These grades are given to your response. However, these are not used to compute your final grade.",
+    "description": "Unweighted grades info"
+  },
+  "frontend-app-ora.unweightedPeerStepLabel": {
+    "defaultMessage": "Unweighted peer",
+    "description": "Unweighted peer step label"
+  },
+  "frontend-app-ora.xblock-studio-view.allowLaTexResponsesLabel": {
+    "defaultMessage": "Allow LaTeX responses:",
+    "description": "allow LaTeX responses label"
+  },
+  "frontend-app-ora.xblock-studio-view.assessmentStepsHeader": {
+    "defaultMessage": "Assessment steps",
+    "description": "assessment steps header"
+  },
+  "frontend-app-ora.xblock-studio-view.collapseAllButton": {
+    "defaultMessage": "Collapse all",
+    "description": "collapse all button"
+  },
+  "frontend-app-ora.xblock-studio-view.criteriaDescriptionLabel": {
+    "defaultMessage": "Criteria description:",
+    "description": "criteria description label"
+  },
+  "frontend-app-ora.xblock-studio-view.criteriaNameLabel": {
+    "defaultMessage": "Criteria name:",
+    "description": "criteria name label"
+  },
+  "frontend-app-ora.xblock-studio-view.criteriaOptionsLabel": {
+    "defaultMessage": "Criteria options:",
+    "description": "criteria options label"
+  },
+  "frontend-app-ora.xblock-studio-view.expandAllButton": {
+    "defaultMessage": "Expand all",
+    "description": "expand all button"
+  },
+  "frontend-app-ora.xblock-studio-view.falseLabel": {
+    "defaultMessage": "False",
+    "description": "false label"
+  },
+  "frontend-app-ora.xblock-studio-view.fileUploadLabel": {
+    "defaultMessage": "File uploads:",
+    "description": "file upload label"
+  },
+  "frontend-app-ora.xblock-studio-view.fileUploadLimitLabel": {
+    "defaultMessage": "File upload limit:",
+    "description": "file upload limit label"
+  },
+  "frontend-app-ora.xblock-studio-view.noneLabel": {
+    "defaultMessage": "None",
+    "description": "none label"
+  },
+  "frontend-app-ora.xblock-studio-view.optionalLabel": {
+    "defaultMessage": "Optional",
+    "description": "optional label"
+  },
+  "frontend-app-ora.xblock-studio-view.peerLabel": {
+    "defaultMessage": "Peer assessment",
+    "description": "peer label"
+  },
+  "frontend-app-ora.xblock-studio-view.pointsLabel": {
+    "defaultMessage": "points",
+    "description": "points label"
+  },
+  "frontend-app-ora.xblock-studio-view.promptHeader": {
+    "defaultMessage": "Prompt",
+    "description": "prompt header"
+  },
+  "frontend-app-ora.xblock-studio-view.requiredLabel": {
+    "defaultMessage": "Required",
+    "description": "required label"
+  },
+  "frontend-app-ora.xblock-studio-view.responseEditorLabel": {
+    "defaultMessage": "Response editor:",
+    "description": "response editor label"
+  },
+  "frontend-app-ora.xblock-studio-view.rubricHeader": {
+    "defaultMessage": "Rubric",
+    "description": "rubric header"
+  },
+  "frontend-app-ora.xblock-studio-view.schedule.dueLabel": {
+    "defaultMessage": "due:",
+    "description": "due label"
+  },
+  "frontend-app-ora.xblock-studio-view.schedule.notSetLabel": {
+    "defaultMessage": "Not set",
+    "description": "not set label"
+  },
+  "frontend-app-ora.xblock-studio-view.schedule.responseLabel": {
+    "defaultMessage": "Response",
+    "description": "response label"
+  },
+  "frontend-app-ora.xblock-studio-view.schedule.scheduleHeader": {
+    "defaultMessage": "Schedule",
+    "description": "schedule header"
+  },
+  "frontend-app-ora.xblock-studio-view.schedule.startLabel": {
+    "defaultMessage": "start:",
+    "description": "start label"
+  },
+  "frontend-app-ora.xblock-studio-view.selfLabel": {
+    "defaultMessage": "Self assessment",
+    "description": "self label"
+  },
+  "frontend-app-ora.xblock-studio-view.settingsHeader": {
+    "defaultMessage": "Settings",
+    "description": "settings header"
+  },
+  "frontend-app-ora.xblock-studio-view.showRubricDuringResponseLabel": {
+    "defaultMessage": "Show rubric during response:",
+    "description": "show rubric during response label"
+  },
+  "frontend-app-ora.xblock-studio-view.staffLabel": {
+    "defaultMessage": "Staff assessment",
+    "description": "staff label"
+  },
+  "frontend-app-ora.xblock-studio-view.stepLabel": {
+    "defaultMessage": "Step",
+    "description": "step label"
+  },
+  "frontend-app-ora.xblock-studio-view.studentTrainingLabel": {
+    "defaultMessage": "Practice grading",
+    "description": "studentTraining label"
+  },
+  "frontend-app-ora.xblock-studio-view.teamsEnabledLabel": {
+    "defaultMessage": "Teams enabled:",
+    "description": "teams enabled label"
+  },
+  "frontend-app-ora.xblock-studio-view.textLabel": {
+    "defaultMessage": "Text editor",
+    "description": "text label"
+  },
+  "frontend-app-ora.xblock-studio-view.textResponseLabel": {
+    "defaultMessage": "Text response:",
+    "description": "text response label"
+  },
+  "frontend-app-ora.xblock-studio-view.topResponsesLabel": {
+    "defaultMessage": "Top responses:",
+    "description": "top responses label"
+  },
+  "frontend-app-ora.xblock-studio-view.trueLabel": {
+    "defaultMessage": "True",
+    "description": "true label"
+  },
+  "frontend-app-ora.xblock-studio-view.wysiwygLabel": {
+    "defaultMessage": "WYSIWYG editor",
+    "description": "wysiwyg label"
+  },
+  "frontend-app-ora.yourFinalGrade": {
+    "defaultMessage": "Your final grade: {earned}/{possible}",
+    "description": "Your final grade"
+  },
+  "frontend-app-ora.yourResponse": {
+    "defaultMessage": "Your response",
+    "description": "Your response"
+  },
+  "ora-collapsible-comment.comment": {
+    "defaultMessage": "Comments",
+    "description": "Header for comment component if no step provided"
+  },
+  "ora-collapsible-comment.comments": {
+    "defaultMessage": "comments",
+    "description": "Comments label for completed assessments"
+  },
+  "ora-collapsible-comment.points": {
+    "defaultMessage": "Points",
+    "description": "Header for points component"
+  },
+  "ora-collapsible-comment.stepComment": {
+    "defaultMessage": "{step} comment",
+    "description": "Header for comment component if step is provided"
+  },
+  "ora-collapsible-comment.stepComments": {
+    "defaultMessage": "{step} comments",
+    "description": "Step comments label for completed assessments"
+  },
+  "ora-collapsible-comment.submittedAssessment": {
+    "defaultMessage": "Submitted assessment",
+    "description": "Header for submitted assessment display"
+  },
+  "ora-collapsible-comment.submittedGrade": {
+    "defaultMessage": "Submitted grade",
+    "description": "Header for submitted grade display"
+  },
+  "ora-collapsible-comment.unweightedGrade": {
+    "defaultMessage": "{stepLabel} grade",
+    "description": "Unweighted grade group text"
+  },
+  "ora-grading.SaveAction.save": {
+    "defaultMessage": "Save for later",
+    "description": "Save for later button text"
+  },
+  "ora-grading.SaveAction.saving": {
+    "defaultMessage": "Saving response",
+    "description": "Save for later button text while saving"
+  },
+  "ora-grading.SubmissionAction.submit": {
+    "defaultMessage": "Submit response",
+    "description": "Submit button text"
+  },
+  "ora-grading.SubmissionAction.submitted": {
+    "defaultMessage": "Response submitted",
+    "description": "Submit button text after successful submission"
+  },
+  "ora-grading.SubmissionAction.submitting": {
+    "defaultMessage": "Submitting response",
+    "description": "Submit button text while submitting"
+  },
+  "ora-grading.SubmissionView.startTraining": {
+    "defaultMessage": "Start practice grading",
+    "description": "Action button text for start action to student training step"
+  },
+  "ora-mfe.ModalActions.exit": {
+    "defaultMessage": "Exit",
+    "description": "Action button to exit grades step"
+  },
+  "ora-mfe.ModalActions.loadNext": {
+    "defaultMessage": "Load next",
+    "description": "Action button to load next peer response"
+  },
+  "ora-mfe.ModalActions.loadingNext": {
+    "defaultMessage": "Loading next",
+    "description": "Action button text while loading next peer assessment"
+  },
+  "ora-mfe.ModalActions.optionalPeerResponse": {
+    "defaultMessage": "(optional)",
+    "description": "When peer response is optional"
+  },
+  "ora-mfe.ModalActions.peerResponse": {
+    "defaultMessage": "peer",
+    "description": "Peer type of response for \"Load(ing/ed) next <type>\" action"
+  },
+  "ora-mfe.ModalActions.practiceResponse": {
+    "defaultMessage": "practice response",
+    "description": "Student training type of response for \"Load(ing/ed) next <type>\" action"
+  },
+  "ora-mfe.ModalActions.responseSubmitted": {
+    "defaultMessage": "Response submitted",
+    "description": "Submit button text after successful submission"
+  },
+  "ora-mfe.ModalActions.savingResponse": {
+    "defaultMessage": "Saving response",
+    "description": "Save for later button text while saving"
+  },
+  "ora-mfe.ModalActions.simpleAction.finishLater": {
+    "defaultMessage": "Save for later",
+    "description": "Save for later (close) button text"
+  },
+  "ora-mfe.ModalActions.startPeer": {
+    "defaultMessage": "Begin peer grading",
+    "description": "Action button to begin peer assessment step"
+  },
+  "ora-mfe.ModalActions.startSelf": {
+    "defaultMessage": "Go to self grading",
+    "description": "Action button to begin self assessment step"
+  },
+  "ora-mfe.ModalActions.startTraining": {
+    "defaultMessage": "Go to practice grading",
+    "description": "Action button to begin studentTraining step"
+  },
+  "ora-mfe.ModalActions.submitResponse": {
+    "defaultMessage": "Submit response",
+    "description": "Submit button text"
+  },
+  "ora-mfe.ModalActions.submittingResponse": {
+    "defaultMessage": "Submitting response",
+    "description": "Submit button text while submitting"
+  },
+  "ora-mfe.ModalActions.viewGrades": {
+    "defaultMessage": "View your grades",
+    "description": "Action button to load grades step"
+  },
+  "ora-mfe.StatusAlert.Heading.xblock.staffAssessment": {
+    "defaultMessage": "All assignment steps are completed. Your final grade is not ready yet.",
+    "description": "Status alert message heading for staff assessment step"
+  }
+}
